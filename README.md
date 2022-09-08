@@ -1,4 +1,4 @@
-# Food Delivery - Vilceanu Razvan Arthur 244
+# Food Delivery - OOP Project
 
 Programul simuleaza o aplicatie de food delivery ce gestioneaza Restaurante, Utilizatori, Livratori si Dispeceri.
 
